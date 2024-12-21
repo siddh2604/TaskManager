@@ -23,4 +23,4 @@ To set up and run this app locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/siddh2604/TaskManager.git
